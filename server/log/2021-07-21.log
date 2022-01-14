@@ -1,0 +1,161 @@
+[GIN-VUE-ADMIN]2021/07/21 - 10:26:10.174	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:26:14.462	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:27:35.903	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:46:31.212	[31merror[0m	添加失败!	{"err": "存在重复name，请修改name"}
+[GIN-VUE-ADMIN]2021/07/21 - 10:47:22.256	[31merror[0m	添加失败!	{"err": "存在重复name，请修改name"}
+[GIN-VUE-ADMIN]2021/07/21 - 10:48:48.530	[31merror[0m	添加失败!	{"err": "存在重复name，请修改name"}
+[GIN-VUE-ADMIN]2021/07/21 - 10:50:19.438	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:54:05.915	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:54:50.630	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:56:52.904	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:56:59.560	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 10:58:09.173	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:00:19.316	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:00:57.060	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:05:49.541	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:08:44.898	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:08:54.653	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:09:15.693	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:10:26.637	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:15:23.486	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:16:10.405	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:17:07.252	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:21:47.966	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:21:49.797	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:26:01.846	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:27:03.920	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:33:49.184	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:35:31.547	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:37:31.714	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:40:29.070	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:42:01.193	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:42:36.453	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:43:08.084	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:44:15.183	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:44:55.521	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 11:55:22.054	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"描述\",`seedword` varchar COMMENT \"种子词\",`method` varchar COMMENT' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:23:18.263	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"描述\",`seed` varchar COMMENT \"种子词\",`method` varchar COMMENT \"æ£' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:23:19.781	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"描述\",`seed` varchar COMMENT \"种子词\",`method` varchar COMMENT \"æ£' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:27:25.989	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"名称\",`desc` varchar COMMENT \"描述\",`seed` varchar COMMENT \"种子è' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:27:34.939	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"名称\",`desc` varchar COMMENT \"描述\",`seed` varchar COMMENT \"种子è' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.926	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.931	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.931	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.932	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.934	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:09.934	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:30:40.684	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 12:35:37.944	[31merror[0m	register table failed	{"err": "Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMENT \"名称\",`desc` varchar COMMENT \"描述\",`seedword` varchar COMMENT \"种' at line 1"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:44:41.574	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.566	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.572	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.572	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.572	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.576	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 12:45:57.590	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:47:41.293	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 12:50:52.841	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:35.106	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:39.303	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:41.110	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:41.339	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:41.568	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:41.847	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:54:47.354	[31merror[0m	创建失败!	{"err": "Error 1364: Field 'id' doesn't have a default value"}
+[GIN-VUE-ADMIN]2021/07/21 - 12:59:29.435	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 13:08:58.984	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.946	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.954	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.954	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.955	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.957	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 14:10:03.979	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 14:11:22.015	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:20:33.696	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:24:31.953	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:32:15.684	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:33:08.489	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:35:22.720	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:35:41.446	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:36:22.267	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:40:15.681	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:41:00.690	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:42:46.833	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 14:54:30.446	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:02:59.809	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:32:47.949	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:41:45.200	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:43:28.488	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:44:08.361	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:44:43.652	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:50:20.954	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:51:55.249	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:52:45.239	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 15:57:00.067	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:15:25.821	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:32:11.345	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:32:16.380	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:33:36.077	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:36:33.076	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 16:37:03.303	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 19:59:03.890	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 19:59:44.737	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:06:33.834	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:15:03.700	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:20:56.601	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:21:19.929	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:44:58.584	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:45:35.125	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:46:30.629	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 20:49:57.142	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:01:36.973	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:02:15.681	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:03:12.767	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:03:30.736	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:05:27.876	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:13:47.224	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:15:51.441	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:17:45.518	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:18:58.864	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:23:39.954	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:23:44.649	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:27:09.959	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:28:03.986	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:29:35.174	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:30:59.024	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:31:13.865	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:31:43.031	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:33:44.498	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:34:03.065	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:40:29.636	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:42:53.963	[31merror[0m	register table failed	{"err": "Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.425	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.428	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.428	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.428	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.429	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:31.429	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 21:43:41.039	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:44:19.159	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:44:59.981	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:46:33.121	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:46:45.054	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:50:03.188	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 21:58:01.803	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.763	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.769	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.769	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.769	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.770	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:33.780	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 22:22:46.797	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.798	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.806	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.806	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.806	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.807	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/07/21 - 22:26:34.815	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/07/21 - 22:27:05.652	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 22:31:32.463	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 22:32:21.383	[34minfo[0m	数据库无需初始化
+[GIN-VUE-ADMIN]2021/07/21 - 22:32:59.309	[34minfo[0m	数据库无需初始化
